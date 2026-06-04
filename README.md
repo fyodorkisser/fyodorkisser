@@ -1,7 +1,7 @@
 ![](https://files.catbox.moe/jos16i.png)
 <img src="https://files.catbox.moe/wqnzl3.jpg" style="display: block;">
 <p align="center">
-ciel or alois. he/any pronouns, fyodor ns gachikoi... im socially anxious '''^_^
+ciel or alois. he/any pronouns, fyodor ns gachikoi... im socially anxious
 </p>
 
 <p align="center">
