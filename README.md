@@ -5,7 +5,7 @@ ciel or alois. he/any pronouns, fyodor ns gachikoi... im socially anxious '''^_^
 </p>
 
 <p align="center">
-view my <a href="https://prns.cc/jjsln">pronouns.cc</a> for more info
+view my <a href="https://rentry.co/fyodor-dostoyevsky">rentry</a> for more info
 </p>
     
 
