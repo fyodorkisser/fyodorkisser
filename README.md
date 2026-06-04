@@ -9,3 +9,5 @@ view my <a href="https://rentry.co/fyodor-dostoyevsky">rentry</a> for more info
 </p>
     
 
+<p align="center"> <img width="140" src="https://komarev.com/ghpvc/?username=your-github-username&label=dead&color=0a0901">
+</p>
