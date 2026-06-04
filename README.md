@@ -1,4 +1,4 @@
-![](https://files.catbox.moe/pct622.png)
+![](https://files.catbox.moe/h6uxzl.png)
 ![banner](https://files.catbox.moe/wqnzl3.jpg)
 <p align="center">
   i love fyodor so much...
@@ -7,4 +7,4 @@
   read pronouns.cc for more info
 </
 
-![banner](https://files.catbox.moe/pct622.png)
+![banner](https://files.catbox.moe/8cwrii.gif)
