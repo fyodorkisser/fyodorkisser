@@ -7,4 +7,4 @@
   read pronouns.cc for more info
 </
 
-![banner](https://files.catbox.moe/8cwrii.gif)
+![banner](https://files.catbox.moe/qw19mi.png)
