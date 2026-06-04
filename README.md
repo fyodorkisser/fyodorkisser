@@ -8,7 +8,7 @@ ciel or alois. he/any pronouns, fyodor ns gachikoi... im socially anxious
 view my <a href="https://rentry.co/fyodor-dostoyevsky">rentry</a> for more info
 </p>
 <p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31vvnz5xrrfqxr6ogfp3bb2x3xze&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vvnz5xrrfqxr6ogfp3bb2x3xze&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vvnz5xrrfqxr6ogfp3bb2x3xze&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=000000&bar_color_cover=false&mode=dark">
   </a>
 </p>
