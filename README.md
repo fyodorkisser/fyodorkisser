@@ -7,7 +7,7 @@
     </td>
     <td align="center">
       <h2> ciel/alois </h2>
-      he/any pronouns, fyodor ns gachikoi. im socially anxious & inept—iwcare
+     <h4> $\color{white}{\textsf{he/any pronouns,}}$ $\color{white}{\textsf{fyodor ns gachikoi.}}$ $\color{white}{\textsf{im socially anxious and}}$ $\color{white}{\textsf{inept—iwcare}}$ <h4>
       <a href="https://rentry.co/fyodor-dostoyevsky">rentry</a>
 </table>
 
