@@ -7,7 +7,7 @@
     </td>
     <td align="center">
       <h2> ciel/alois </h2>
-      he/any pronouns, fyodor ns gachikoi. im socially anxious—iwcare
+      he/any pronouns, fyodor ns gachikoi. im socially anxious & inept—iwcare
       <a href="https://rentry.co/fyodor-dostoyevsky">rentry</a>
 </table>
 
