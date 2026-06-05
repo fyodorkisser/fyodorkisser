@@ -3,7 +3,7 @@
 <table border="1">
   <tr>
     <td width="120" align="center">
-      <img src="https://files.catbox.moe/x0t19j.jpg" width="220">
+      <img src="https://files.catbox.moe/2ufrul.png" width="220">
     </td>
     <td align="center">
       <h2> ciel/alois </h2>
