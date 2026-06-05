@@ -6,7 +6,7 @@
       <img src="https://files.catbox.moe/2ufrul.png" width="220">
     </td>
     <td align="center">
-      <h2> ciel/alois <img src="https://files.catbox.moe/5yw069.png" width="20"> </h2>
+      <h2> ciel/alois </h2>
       he/any pronouns, fyodor ns gachikoi. im socially anxious—iwcare
       <a href="https://rentry.co/fyodor-dostoyevsky">rentry</a>
 </table>
