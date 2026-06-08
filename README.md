@@ -1,5 +1,8 @@
-
+<div align="center">
 <img src="https://files.catbox.moe/wqnzl3.jpg" style="display: block;">
+  </div>
+
+<div align="center">
 <table border="1">
   <tr>
     <td width="120" align="center">
@@ -10,6 +13,9 @@
      <h4> $\color{white}{\textsf{he/any pronouns,}}$ $\color{white}{\textsf{fyodor ns gachikoi.}}$ $\color{white}{\textsf{im socially anxious and}}$ $\color{white}{\textsf{inept—iwcare}}$ <h4>
       <a href="https://rentry.co/fyodor-dostoyevsky">rentry</a>
 </table>
-
-![](https://files.catbox.moe/jos16i.png)
+  </div>
+       
+<div align="center">
+<img src="https://files.catbox.moe/jos16i.png" style="display: block;">
+  </div>
 
