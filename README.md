@@ -1,4 +1,3 @@
-<img width="80" src="https://komarev.com/ghpvc/?username=your-github-username&label=dead&color=0a0901">
 
 <img src="https://files.catbox.moe/wqnzl3.jpg" style="display: block;">
 <table border="1">
