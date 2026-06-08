@@ -1,5 +1,5 @@
 
-<img src="https://files.catbox.moe/wqnzl3.jpg" style="display: block;">
+<img src="https://files.catbox.moe/wqnzl3.jpg" style="display: block;" align="center">
 <table border="1">
   <tr>
     <td width="120" align="center">
