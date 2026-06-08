@@ -1,3 +1,4 @@
+<img width="80" src="https://komarev.com/ghpvc/?username=fyodorkisser">
 
 <img src="https://files.catbox.moe/wqnzl3.jpg" style="display: block;">
 <table border="1">
